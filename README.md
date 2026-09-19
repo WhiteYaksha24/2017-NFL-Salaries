@@ -3,7 +3,7 @@ Sports Salary Analysis Project
 This project uses SQLite DB Browser to analyze and compare player salaries across major sports leagues. The goal is to calculate key metrics like maximum, minimum, and average salaries by position to see how different leagues distribute their money.
 
  leagues analyzed so far:
-- NBA (Basketball)
+- NBA (Basketball) 2022-23
 
 Project File Structure
 - NBA Salaries by Position (2022-23).db: The SQLite database holding the raw and processed basketball data.
